@@ -12,6 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
+</body>
 
 <!--
   <<< Author notes: Step 5 >>>
